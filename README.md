@@ -357,22 +357,24 @@ def extractor(data):
             data[name] = value
     return data
 
-os.system('xdg-open https://t.me/ex_xd_facebook_marketing');time.sleep(1.5)
+os.system('xdg-open https://www.facebook.com/profile.php?id=100045847606830');time.sleep(1.5)
 
 # Banner
 def banner():
     """Display the script banner."""
     clear_screen()
     print(f"""{G}
-        888888 Yb  dP     Yb  dP 8888b.  
-        88__    YbdP       YbdP   8I  Yb 
-        88""    dPYb       dPYb   8I  dY 
-        888888 dP  Yb     dP  Yb 8888Y"  
-        {W}X      {R}I   {W}Y      {R}A   {W}D {R}X    D
+        
+░░░░░██╗░█████╗░███╗░░██╗  ███╗░░██╗░█████╗░██╗░░░██╗░█████╗░██╗░░██╗
+░░░░░██║██╔══██╗████╗░██║  ████╗░██║██╔══██╗╚██╗░██╔╝██╔══██╗██║░██╔╝
+░░░░░██║███████║██╔██╗██║  ██╔██╗██║███████║░╚████╔╝░███████║█████═╝░
+██╗░░██║██╔══██║██║╚████║  ██║╚████║██╔══██║░░╚██╔╝░░██╔══██║██╔═██╗░
+╚█████╔╝██║░░██║██║░╚███║  ██║░╚███║██║░░██║░░░██║░░░██║░░██║██║░╚██╗
+░╚════╝░╚═╝░░╚═╝╚═╝░░╚══╝  ╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝
 {W}─────────────────────────────────────────────{W}
-{W}[{G}•{W}]{G} DEVOLPER {W}:{G} XIYAD
-{W}[{G}•{W}]{G} FACEBOOK {W}:{G} Riyad Mahfuz
-{W}[{G}•{W}]{G} GITHUB   {W}:{G} Xiyad69
+{W}[{G}•{W}]{G} DEVOLPER {W}:{G} Shridhar G
+{W}[{G}•{W}]{G} FACEBOOK {W}:{G} Shridhar G
+{W}[{G}•{W}]{G} GITHUB   {W}:{G} Shrikld
 {W}[{G}•{W}]{G} TOOL     {W}:{G} Auto Create 
 {W}─────────────────────────────────────────────{W}""")
 
